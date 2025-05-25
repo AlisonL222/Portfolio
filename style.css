@@ -120,6 +120,7 @@ main h1 {
 	color: var(--white);
 }
 #writing {
+	margin: 0px 3rem;
 	text-align: center;
 	padding: 4rem 5rem;
 	background: var(--lightPurple);
@@ -162,6 +163,7 @@ footer a {
 	column-gap: 50px;
 }
 #projects h3 {
+	margin-top:5rem;
 	grid-area: title;
 	text-align: center;
 	color: var(--black);
