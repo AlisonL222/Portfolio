@@ -6,5 +6,5 @@
     --Stopwatch - It is a stopwatch that is able to record time and has the abilities to stop and be reset. <br>
     --To Do List - A to do list which allows users to add tasks to their to do list as well as ones from a list of suggested tasks. They are able to check off and delete each task on the list as well.<br>
     --Connect 4 - A recreation of the Connect 4 game where players compete against one another to get 4 tokens in a row. In this game, players can place their tokens on the board and if they achieve 4 in a row, they will win and the game will stop. Players are able to restart and play the game as many times as they'd like.<br><br>
-● https://github.com/AlisonL222/Portfolio<br>
-● https://alisonl222.github.io/Portfolio/
+● A link to my GitHub repository: https://github.com/AlisonL222/Portfolio<br>
+● A link to my live site that is running through GitHub Pages: https://alisonl222.github.io/Portfolio/
